@@ -1,24 +1,15 @@
-# test
+# VueTodo - Albert Valdes
 
-## Project setup
-```
-npm install
-```
+**Version 1.0.0**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+A test application to get more familiar with using Vue.js.
 
-### Compiles and minifies for production
-```
-npm run build
-```
+---
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Built With
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue.js
+
+## License and copyright
+
+© Albert Valdes, https://github.com/albert-anthony6
